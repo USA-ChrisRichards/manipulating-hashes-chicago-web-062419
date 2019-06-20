@@ -19,7 +19,6 @@ ice_cream = contacts["Freddy Mercury"][:favorite_icecream_flavors]
          if attribute == :favorite_icecream_flavors
       value.each do |flavor|
         flavor.delete("strawberry")
-      end
     end
   end
 end
