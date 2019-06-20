@@ -9,7 +9,7 @@ def second_challenge
   #code your solution here! 
   #.values method returns an array of the values of the keys in the hash.
 
-groceries.values
+groceries.values.flatten
   
 
 end
