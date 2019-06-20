@@ -6,7 +6,9 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
 
-  #code your solution here!
+  #code your solution here! 
+  #.values method returns an array of the values of the keys in the hash.
+
 groceries.values
   
 
