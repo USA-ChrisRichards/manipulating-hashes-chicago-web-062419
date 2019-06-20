@@ -16,6 +16,7 @@ def first_challenge
   #your code here
 ice_cream = contacts["Freddy Mercury"][:favorite_icecream_flavors]
         ice_cream.delete("strawberry")
+    end
   end
 end
    
